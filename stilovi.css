@@ -1,0 +1,187 @@
+h1 {
+    font-size:44px;
+    color: black;
+    }  
+    
+.vidi_vise {
+    display: inline-block;
+    width: 160px;
+    height: 60px;
+    color: white;
+    background-color: coral;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 10px;
+    }
+a {
+    text-decoration: none;
+    }
+.navigacija {
+    display: inline;
+    margin-left: 700px;
+    margin-bottom: 70px;
+}
+ .navigacija a {
+     font-size: 20px;
+     color: black;
+     
+ }
+ .zaglavlje {
+     background-image: url(naslovna.jpg);
+     background-size: cover;
+     padding-top: 160px;
+ }
+ 
+ .since {
+     color: black;
+ }
+ .vole {
+     color: coral;
+ }
+ .ponudaa {
+     background-image: url(zaponudu.PNG);
+     background-size: cover;
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+ .povijest {
+     background-image: url(Slasticar.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     display: inline-block;
+     height: 400px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     
+ }
+ .pitanje {
+     background-color: orange;
+     bottom: 0;
+     width: 600px;
+     height: 90px;
+     margin-left: 800px;
+     shape-margin: 100px;
+     padding-bottom: 50px;
+     border-radius: 10px;
+
+ }
+ .okvir-naslova {
+     margin-left: 100px;
+     shape-margin: 100px;
+     padding-bottom: 100px;
+ }
+
+ .znacajke {
+     display: inline-block;
+     width: 450px;
+     
+ }
+ .slatko {
+     display: inline-block;
+     width: 400px;
+ }
+ .okvir-peciva {
+     display: inline-block;
+     width: 700px;
+ }
+ .tekst {
+     display: inline-block;
+     width: 100px;
+     text-align: left;
+ }
+ .kupci {
+     display: inline-block;
+     width: 200px;
+     margin-left: 400px;
+ }
+
+ .poslovanje {
+     display: inline-block;
+     width:650px;
+     color:white;
+     margin-left: 10px;
+ } 
+
+ .opisposla {
+     display: inline-block;
+     width: 400px;
+     color:white;
+     margin-left: 10px;
+ }
+ .contact {
+     display: inline-block;
+     width: 500px;
+     text-align: center;
+     color: white;
+ }
+ .kontakt-name {
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    margin-left: 150px;
+    background-color: white;
+    border-radius: 10px;
+    font-size:20px;
+    
+ }
+ .principessina-ponuda {
+     width: 32%;
+     padding-bottom: 50px;
+ }
+
+ .kupcislastica {
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+ .tekst-kupci {
+     text-align: center
+ }
+ .tekst-kupci1 {
+     text-align: center;
+     color: grey;
+ }
+
+ .nav {
+     position: fixed;
+     top: 0;
+     left: 0;
+     background-color: white;
+     width: 1500px;
+ }
+ .tekst-ponuda {
+     text-align: left;
+     color: grey;
+ }
+ 
+ 
+ .kontaktirajnas {
+     display: inline-block;
+     width: 600px;
+     margin-left: 10px;
+     
+ }
+ .zakontakt {
+     display: inline-block;
+     margin-left: 30px;
+ }
+ 
+ .prati {
+     display: inline-block;
+     width: 800px;
+ }
+
+ .ekran {
+     display: flex;
+ }
+
+ .podnozje {
+     text-align: center;
+     font-size: 15px;
+     height: 10px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+ 
+ 
